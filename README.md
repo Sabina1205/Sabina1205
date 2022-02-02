@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabina1205
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning more about JavaScript
+- 🌱 I’m currently working on my portfolio website
 - 📫 How to reach me: sabina.nuhanovic15@gmail.com
 - ⚡ Fun fact **I draw, sketch and paint**
 
