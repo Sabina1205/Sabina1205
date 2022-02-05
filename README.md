@@ -4,7 +4,7 @@
 - 📫 How to reach me: sabina.nuhanovic15@gmail.com
 - ⚡ Fun fact **I draw, sketch and paint**
 
-<h3 align="left">Other projects:</h3>
+<h3 align="left">CodePen:</h3>
 <p align="left">
 <a href="https://codepen.io/sabina23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sabina23" height="30" width="40" /></a>
 </p>
